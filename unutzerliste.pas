@@ -8,7 +8,7 @@ uses
   Classes, SysUtils, mysql57conn, sqldb, Forms, Controls, Graphics, Dialogs,
   ExtCtrls, StdCtrls, Windows;
 
-type
+type 
 
   { TForm1 }
 
