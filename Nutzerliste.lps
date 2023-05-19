@@ -20,14 +20,14 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uNutzerliste"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="106"/>
-        <CursorPos X="18" Y="126"/>
+        <TopLine Value="100"/>
+        <CursorPos X="86" Y="117"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="20" HistoryIndex="19">
+    <JumpHistory Count="24" HistoryIndex="23">
       <Position1>
         <Filename Value="unutzerliste.pas"/>
       </Position1>
@@ -106,6 +106,22 @@
         <Filename Value="unutzerliste.pas"/>
         <Caret Line="90" Column="41" TopLine="73"/>
       </Position20>
+      <Position21>
+        <Filename Value="unutzerliste.pas"/>
+        <Caret Line="126" Column="18" TopLine="98"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unutzerliste.pas"/>
+        <Caret Line="127" Column="18" TopLine="99"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unutzerliste.pas"/>
+        <Caret Line="128" Column="18" TopLine="100"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unutzerliste.pas"/>
+        <Caret Line="127" Column="18" TopLine="99"/>
+      </Position24>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
